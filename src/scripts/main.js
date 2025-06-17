@@ -14,9 +14,6 @@ document.addEventListener('DOMContentLoaded', function() {
         else {
             exibeElementosDoHeader();
         }
-        if(posicaoAtual== 0){
-            exibeElementosDoHeader();
-        }
     })
 
     //Seção de atrações, programação das abas
