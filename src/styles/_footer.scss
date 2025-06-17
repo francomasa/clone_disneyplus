@@ -62,6 +62,10 @@
             color: variaveis.$corTextoSecundario;
         }
 
+        &:focus {
+            outline: none;
+        }
+        
         option {
             color: variaveis.$corTectoPrinsipal;
             background-color: #000;

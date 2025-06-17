@@ -14,12 +14,7 @@
             display: grid;
         }
 
-        &__item{
-            &:hover {
-                transform: scale(0.9);
-                transition: 500ms;
-            }
-
+        &__item {
             img{
                 max-width: 100%;
                 border-radius: 4px;

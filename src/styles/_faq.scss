@@ -39,10 +39,10 @@
                 padding: 0 24px;
                 transition: height, .5s ease;
 
-                ul {
+                &__list {
                     margin-left: 24px;
 
-                    li {
+                    &__item {
                         padding: 8px 0;
                     }
                 }
