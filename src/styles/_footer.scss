@@ -55,7 +55,7 @@
     select {
         background-color: transparent;
         border: none;
-        color: variaveis.$corTectoPrinsipal;
+        color: variaveis.$corTextoPrinsipal;
         height: 38px;
 
         &:hover {
@@ -67,7 +67,7 @@
         }
         
         option {
-            color: variaveis.$corTectoPrinsipal;
+            color: variaveis.$corTextoPrinsipal;
             background-color: #000;
             border: none;
         }
